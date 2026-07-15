@@ -1,0 +1,21 @@
+﻿# Local datasets and generated bulk outputs
+data/raw/
+data/processed/
+__pycache__/
+code/__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+
+# Optional local exports
+*.7z
+*.zip
+*.pdf
+*.tmp.docx
+*~$*.docx
+render_check*/
+
+# IDE and OS metadata
+.vscode/
+.idea/
